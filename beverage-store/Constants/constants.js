@@ -1,0 +1,8 @@
+export const Constants = {
+    USER_LOGIN : "USER_LOGIN",
+    USER_LOGOUT: "USER_LOGOUT",
+    VIEW_CART: "VIEW_CART",
+    ADD_TO_CART: "ADD_TO_CART",
+    REMOVE_ITEM: "REMOVE_ITEM",
+    PLACE_ORDER: "PLACE_ORDER"
+}

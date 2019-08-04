@@ -1,0 +1,29 @@
+[{
+	"name": "Black Panther",
+	"languages": ["English","Hindi"],
+	"format": ["3D"],
+	"rating": 5,
+    "imageSrc": "../public/images/black_panther.jpg",
+    "location": ["Bengaluru","Chennai"]
+}, {
+	"name": "Avengers: Infinity War",
+	"languages": ["English","Tamil"],
+	"format": ["3D", "IMAX 3D"],
+	"rating": 5,
+    "imageSrc": "../public/images/avengers_infinity_war.jpg",
+    "location": ["Bengaluru","Chandigarh"]
+}, {
+	"name": "Incredibles 2",
+	"languages": ["English","Kannada"],
+	"format": ["3D"],
+	"rating": 4,
+    "imageSrc": "../public/images/incredibles_2.jpg",
+    "location": ["Bengaluru","Chennai","Chandigarh"]
+}, {
+	"name": "Ralph Breaks The Internet",
+	"languages": ["English","Hindi","Kannada","Tamil"],
+	"format": ["3D"],
+	"rating": 3,
+    "imageSrc": "../public/images/ralph_breaks_the_internet.jpg",
+    "location": ["Bengaluru","Chennai","Chandigarh"]
+}]

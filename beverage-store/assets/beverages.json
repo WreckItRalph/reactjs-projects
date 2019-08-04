@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Beer",
+        "imageSrc":"../public/images/beer.jpg"
+    },
+    {
+        "name":"Wine",
+        "imageSrc":"../public/images/wine.jpg"
+    },
+    {
+        "name":"Whiskey",
+        "imageSrc":"../public/images/whiskey.jpg"
+    }
+]
